@@ -8,3 +8,5 @@ Creating flowers using `ggplot2` R package.
 Using machine learning methods to predict which genre a song belongs to.  
 3. [Rise and Fall of Programming Languages](https://learn.datacamp.com/projects/435)  
 Visualizing rise and fall of programming languages using `ggplot2` R packages with dataset from StackOverFlow.  
+4. [Name Game: Gender Prediction using Sound](https://learn.datacamp.com/projects/97)  
+Predicting children book authors' genders using `baby_nysiis` dataset and visualizing graphically with python.  
