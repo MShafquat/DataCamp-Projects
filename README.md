@@ -12,3 +12,5 @@ Visualizing rise and fall of programming languages using `ggplot2` R packages wi
 Predicting children book authors' genders using `baby_nysiis` dataset and visualizing graphically with python.  
 5. [Word Frequency in Classic Novels](https://learn.datacamp.com/projects/word_frequency)  
 Finding out the most frequently used word in Hermann Melville's _Moby Dick_.  
+6. [A Visual History of Noble Prize Winners](https://learn.datacamp.com/projects/309)  
+Exploring countries, ages, etc. of Nobel laureates.  
